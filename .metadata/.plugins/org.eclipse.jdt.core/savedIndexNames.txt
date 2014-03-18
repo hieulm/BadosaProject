@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\hieul_000\Documents\GitHub\BadosaProject\.metadata\.plugins\org.eclipse.jdt.core
+4061004901.index
